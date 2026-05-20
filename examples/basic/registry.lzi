@@ -1,0 +1,4 @@
+registry
+  bindings
+    breach_watch: BreachChecker
+      adapter @plugin/breach-watch
